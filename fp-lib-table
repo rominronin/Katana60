@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty-master)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty-master)(options "")(descr ""))
+  (lib (name "USB C")(type KiCad)(uri "${KIPRJMOD}/USB C")(options "")(descr ""))
+)
