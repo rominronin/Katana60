@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/Volumes/Internal File Store/Google Drive/KEYBOARDS/Katana60 v2/kicad_pcb/kicad_pcb.sch")
-    (date "Monday, 24 June 2019 at 21:41:47")
+    (date "Tuesday, 02 July 2019 at 21:03:45")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref U1)
       (value ATmega32U4-AU)
-      (footprint Package_QFP:TQFP-44_10x10mm_P0.8mm)
+      (footprint Package_QFP:TQFP-32_7x7mm_P0.8mm)
       (datasheet http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
       (libsource (lib MCU_Microchip_ATmega) (part ATmega32U4-AU) (description "16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"))
       (sheetpath (names /) (tstamps /))
