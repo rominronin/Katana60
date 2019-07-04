@@ -20,7 +20,7 @@ U 1 1 5CCAF324
 P 8775 11800
 F 0 "U1" H 8775 9911 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 8775 9820 50  0000 C CNN
-F 2 "Package_QFP:TQFP-48_7x7mm_P0.5mm" H 8775 11800 50  0001 C CIN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 8775 11800 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 8775 11800 50  0001 C CNN
 	1    8775 11800
 	1    0    0    -1  
