@@ -15,17 +15,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U1
-U 1 1 5CCAF324
-P 8775 11800
-F 0 "U1" H 8775 9911 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 8775 9820 50  0000 C CNN
-F 2 "Package_QFP:TQFP-48_7x7mm_P0.5mm" H 8775 11800 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 8775 11800 50  0001 C CNN
-	1    8775 11800
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R_Small R4
 U 1 1 5CCB306C
 P 10100 12400
@@ -60,12 +49,6 @@ F 3 "" H 8675 9850 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8675 10000 8675 9850
-Wire Wire Line
-	8875 10000 8775 10000
-Connection ~ 8675 10000
-Connection ~ 8775 10000
-Wire Wire Line
-	8775 10000 8675 10000
 $Comp
 L power:GND #PWR0103
 U 1 1 5CCB5508
@@ -78,14 +61,7 @@ F 3 "" H 8275 13600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8775 13600 8675 13600
-Connection ~ 8675 13600
-Wire Wire Line
-	8675 13600 8275 13600
-Wire Wire Line
 	10500 12400 10200 12400
-Wire Wire Line
-	10000 12400 9375 12400
 $Comp
 L Device:R_Small R2
 U 1 1 5CCB707D
@@ -2707,4 +2683,108 @@ Connection ~ 3750 5050
 Wire Wire Line
 	5000 5050 5000 6050
 Connection ~ 5000 5050
+Text GLabel 9475 11900 2    50   Input ~ 0
+ROW4
+Text GLabel 9475 10600 2    50   Input ~ 0
+ROW3
+Text GLabel 9475 10500 2    50   Input ~ 0
+ROW2
+Text GLabel 9475 10400 2    50   Input ~ 0
+ROW1
+Text GLabel 9475 10300 2    50   Input ~ 0
+ROW0
+Text GLabel 9475 11700 2    50   Input ~ 0
+COL12
+Text GLabel 9475 11600 2    50   Input ~ 0
+COL13
+Text GLabel 9475 12000 2    50   Input ~ 0
+COL10
+Text GLabel 9475 12200 2    50   Input ~ 0
+COL7
+Text GLabel 9475 11300 2    50   Input ~ 0
+COL4
+Text GLabel 9475 11500 2    50   Input ~ 0
+COL5
+Text GLabel 9475 11200 2    50   Input ~ 0
+COL3
+Text GLabel 9475 10800 2    50   Input ~ 0
+COL0
+Text GLabel 9475 12700 2    50   Input ~ 0
+COL2
+Text GLabel 9475 10900 2    50   Input ~ 0
+COL1
+Connection ~ 8675 13600
+Wire Wire Line
+	8675 13600 8275 13600
+Wire Wire Line
+	8775 13600 8675 13600
+Connection ~ 8775 10000
+Connection ~ 8675 10000
+Wire Wire Line
+	8775 10000 8675 10000
+Wire Wire Line
+	8875 10000 8775 10000
+Wire Wire Line
+	10000 12400 9375 12400
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 5CCAF324
+P 8775 11800
+F 0 "U1" H 8775 9911 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 8775 9820 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 8775 11800 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 8775 11800 50  0001 C CNN
+	1    8775 11800
+	1    0    0    -1  
+$EndComp
+Text GLabel 9475 11000 2    50   Input ~ 0
+COL14
+Wire Wire Line
+	9375 10400 9475 10400
+Wire Wire Line
+	9475 10300 9375 10300
+Wire Wire Line
+	9375 10500 9475 10500
+Wire Wire Line
+	9475 10600 9375 10600
+Wire Wire Line
+	9375 10700 9475 10700
+Wire Wire Line
+	9475 10800 9375 10800
+Wire Wire Line
+	9375 10900 9475 10900
+Wire Wire Line
+	9475 11000 9375 11000
+Wire Wire Line
+	9375 11200 9475 11200
+Wire Wire Line
+	9475 11300 9375 11300
+Wire Wire Line
+	9375 11500 9475 11500
+Wire Wire Line
+	9375 11700 9475 11700
+Wire Wire Line
+	9375 11900 9475 11900
+Wire Wire Line
+	9375 12000 9475 12000
+Wire Wire Line
+	9375 12200 9475 12200
+Wire Wire Line
+	9375 12500 9475 12500
+Wire Wire Line
+	9475 12700 9375 12700
+Wire Wire Line
+	9475 11800 9375 11800
+Text GLabel 9475 10700 2    50   Input ~ 0
+COL8
+Wire Wire Line
+	9475 12100 9375 12100
+Wire Wire Line
+	9475 11600 9375 11600
+Text GLabel 9475 12500 2    50   Input ~ 0
+COL6
+Text GLabel 9475 12100 2    50   Input ~ 0
+COL11
+Text GLabel 9475 11800 2    50   Input ~ 0
+COL9
 $EndSCHEMATC
