@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFF7FF)
+    (visible_elements FFFFFFFF)
     (pcbplotparams
       (layerselection 0x010f0_ffffffff)
       (usegerberextensions true)
@@ -330,7 +330,7 @@
     (add_net VCC)
   )
 
-  (module random-keyboard-parts:60_Outline-Modded-Extreme-Katana60 (layer F.Cu) (tedit 5D220AAA) (tstamp 5CCBF5DF)
+  (module random-keyboard-parts:60_Outline-Modded-Extreme-Katana60 (layer F.Cu) (tedit 5D222F84) (tstamp 5CCBF5DF)
     (at 206.3875 87.3125)
     (fp_text reference REF** (at -139 50.5) (layer Edge.Cuts) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -338,7 +338,7 @@
     (fp_text value 60_Outline (at -139 49) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_line (start -124.3 -48.9) (end -124.3 -45.75) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -124.3 -53.34) (end -124.3 -45.75) (layer Dwgs.User) (width 0.15))
     (fp_line (start -140.5 -47.3) (end -130.3 -47.3) (layer Edge.Cuts) (width 0.3))
     (fp_arc (start -118.3 -47.8) (end -118.3 -47.3) (angle 90) (layer Edge.Cuts) (width 0.3))
     (fp_arc (start -130.3 -47.8) (end -129.8 -47.8) (angle 90) (layer Edge.Cuts) (width 0.3))
@@ -7006,7 +7006,7 @@
   (segment (start 226.85375 65.7225) (end 226.85375 84.7725) (width 0.25) (layer F.Cu) (net 105))
   (segment (start 222.25 61.11875) (end 226.85375 65.7225) (width 0.25) (layer F.Cu) (net 105))
 
-  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5D2225B1) (hatch edge 0.508)
+  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5D229E40) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing chamfer) (radius 2))
@@ -7045,7 +7045,7 @@
       )
     )
   )
-  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5D2225AE) (hatch edge 0.508)
+  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5D229E3D) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 5))
