@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/Volumes/Internal File Store/Google Drive/KEYBOARDS/Katana60 v2/kicad_pcb/kicad_pcb.sch")
-    (date "Sunday, 07 July 2019 at 17:12:43")
+    (date "Friday, 26 July 2019 at 23:52:42")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -58,7 +58,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5CCB9C54))
     (comp (ref C7)
-      (value 0.1uF)
+      (value 10uF)
       (footprint Diode_SMD:D_0805_2012Metric)
       (datasheet ~)
       (libsource (lib Device) (part C_Small) (description "Unpolarized capacitor, small symbol"))
@@ -115,7 +115,7 @@
       (tstamp 5CCDCA3B))
     (comp (ref F1)
       (value 500mA)
-      (footprint Fuse:Fuse_0805_2012Metric)
+      (footprint Fuse:Fuse_1206_3216Metric)
       (datasheet ~)
       (libsource (lib Device) (part Polyfuse_Small) (description "Resettable fuse, polymeric positive temperature coefficient, small symbol"))
       (sheetpath (names /) (tstamps /))
