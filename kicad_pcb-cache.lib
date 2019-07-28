@@ -55,29 +55,6 @@ X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Device_Crystal_GND24_Small
-#
-DEF Device_Crystal_GND24_Small Y 0 40 Y N 1 F N
-F0 "Y" 50 175 50 H V L CNN
-F1 "Device_Crystal_GND24_Small" 50 100 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- Crystal*
-$ENDFPLIST
-DRAW
-S -30 -60 30 60 0 1 0 N
-P 2 0 1 15 -50 -30 -50 30 N
-P 2 0 1 15 50 -30 50 30 N
-P 4 0 1 0 -50 -50 -50 -75 50 -75 50 -50 N
-P 4 0 1 0 -50 50 -50 75 50 75 50 50 N
-X 1 1 -100 0 50 R 30 50 1 1 P
-X 2 2 0 -100 25 U 30 50 1 1 P
-X 3 3 100 0 50 L 30 50 1 1 P
-X 4 4 0 100 25 D 30 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # Device_D_Small
 #
 DEF Device_D_Small D 0 10 N N 1 F N
@@ -134,6 +111,41 @@ DRAW
 S -30 70 30 -70 0 1 8 N
 X ~ 1 0 100 30 D 50 50 1 1 P
 X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Device_Resonator_Small
+#
+DEF Device_Resonator_Small Y 0 40 Y N 1 F N
+F0 "Y" 125 75 50 H V L CNN
+F1 "Device_Resonator_Small" 125 0 50 H V L CNN
+F2 "" -25 0 50 H I C CNN
+F3 "" -25 0 50 H I C CNN
+$FPLIST
+ Filter*
+ Resonator*
+$ENDFPLIST
+DRAW
+C -100 0 10 0 1 0 F
+C 0 -150 10 0 1 0 F
+C 100 0 10 0 1 0 F
+S -140 -100 -60 -110 0 1 0 F
+S -140 -70 -60 -80 0 1 0 F
+S -25 75 25 -75 0 1 12 N
+S 60 -100 140 -110 0 1 0 F
+S 60 -70 140 -80 0 1 0 F
+P 2 0 1 0 -100 -70 -100 0 N
+P 2 0 1 0 -100 0 -55 0 N
+P 2 0 1 0 -100 50 -100 0 N
+P 2 0 1 15 -50 -50 -50 50 N
+P 2 0 1 15 50 -50 50 50 N
+P 2 0 1 0 50 0 100 0 N
+P 2 0 1 0 100 0 100 -70 N
+P 2 0 1 0 100 50 100 0 N
+P 4 0 1 0 95 -110 95 -150 -95 -150 -95 -105 N
+X 1 1 -100 100 50 D 50 50 1 1 P
+X 2 2 0 -200 50 U 50 50 1 1 P
+X 3 3 100 100 50 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
