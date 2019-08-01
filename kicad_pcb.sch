@@ -2603,27 +2603,25 @@ Connection ~ 3750 5050
 Wire Wire Line
 	5000 5050 5000 6050
 Connection ~ 5000 5050
-Text GLabel 9475 10800 2    50   Input ~ 0
+Text GLabel 9475 12000 2    50   Input ~ 0
 ROW2
 Text GLabel 9475 10300 2    50   Input ~ 0
 ROW0
-Text GLabel 9475 11800 2    50   Input ~ 0
-COL12
 Text GLabel 9475 11700 2    50   Input ~ 0
+COL12
+Text GLabel 9475 11600 2    50   Input ~ 0
 COL13
-Text GLabel 9475 11900 2    50   Input ~ 0
+Text GLabel 9475 10700 2    50   Input ~ 0
 COL10
 Text GLabel 9475 13100 2    50   Input ~ 0
 COL4
 Text GLabel 9475 13200 2    50   Input ~ 0
 COL5
-Text GLabel 9475 12900 2    50   Input ~ 0
+Text GLabel 9475 13000 2    50   Input ~ 0
 COL3
-Text GLabel 9475 12500 2    50   Input ~ 0
-COL0
-Text GLabel 9475 12800 2    50   Input ~ 0
+Text GLabel 9475 12900 2    50   Input ~ 0
 COL2
-Text GLabel 9475 12700 2    50   Input ~ 0
+Text GLabel 9475 12800 2    50   Input ~ 0
 COL1
 Connection ~ 8675 13600
 Wire Wire Line
@@ -2649,7 +2647,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega
 	1    8775 11800
 	1    0    0    -1  
 $EndComp
-Text GLabel 9475 11600 2    50   Input ~ 0
+Text GLabel 9475 11500 2    50   Input ~ 0
 COL14
 Wire Wire Line
 	9375 10400 9475 10400
@@ -2691,9 +2689,9 @@ Wire Wire Line
 	9475 12100 9375 12100
 Wire Wire Line
 	9475 11600 9375 11600
-Text GLabel 9475 13000 2    50   Input ~ 0
+Text GLabel 9475 11300 2    50   Input ~ 0
 COL6
-Text GLabel 9475 10700 2    50   Input ~ 0
+Text GLabel 9475 10900 2    50   Input ~ 0
 COL8
 Wire Wire Line
 	9475 12800 9375 12800
@@ -2705,17 +2703,17 @@ Wire Wire Line
 	9375 13100 9475 13100
 Wire Wire Line
 	9475 13200 9375 13200
-Text GLabel 9475 10900 2    50   Input ~ 0
-ROW4
-Text GLabel 9475 11000 2    50   Input ~ 0
-ROW3
 Text GLabel 9475 12100 2    50   Input ~ 0
+ROW4
+Text GLabel 9475 11900 2    50   Input ~ 0
+ROW3
+Text GLabel 9475 10800 2    50   Input ~ 0
 COL9
-Text GLabel 9475 12000 2    50   Input ~ 0
+Text GLabel 9475 11800 2    50   Input ~ 0
 COL11
 Text GLabel 9475 11200 2    50   Input ~ 0
 COL7
-Text GLabel 9475 11500 2    50   Input ~ 0
+Text GLabel 9475 12500 2    50   Input ~ 0
 ROW1
 Wire Wire Line
 	6750 12500 7000 12500
@@ -2752,4 +2750,6 @@ Wire Wire Line
 	6825 10600 6550 10600
 Wire Wire Line
 	6550 10600 6550 10650
+Text GLabel 9475 12700 2    50   Input ~ 0
+COL0
 $EndSCHEMATC
