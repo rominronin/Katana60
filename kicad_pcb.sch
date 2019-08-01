@@ -2611,7 +2611,7 @@ Text GLabel 9475 11700 2    50   Input ~ 0
 COL12
 Text GLabel 9475 11600 2    50   Input ~ 0
 COL13
-Text GLabel 9475 10700 2    50   Input ~ 0
+Text GLabel 9475 11900 2    50   Input ~ 0
 COL10
 Text GLabel 9475 13100 2    50   Input ~ 0
 COL4
@@ -2703,11 +2703,11 @@ Wire Wire Line
 	9375 13100 9475 13100
 Wire Wire Line
 	9475 13200 9375 13200
-Text GLabel 9475 12100 2    50   Input ~ 0
-ROW4
-Text GLabel 9475 11900 2    50   Input ~ 0
-ROW3
 Text GLabel 9475 10800 2    50   Input ~ 0
+ROW4
+Text GLabel 9475 10700 2    50   Input ~ 0
+ROW3
+Text GLabel 9475 12100 2    50   Input ~ 0
 COL9
 Text GLabel 9475 11800 2    50   Input ~ 0
 COL11
