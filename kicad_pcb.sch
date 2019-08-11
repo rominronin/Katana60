@@ -390,7 +390,7 @@ Wire Wire Line
 	11250 2050 11250 1500
 Connection ~ 11250 2050
 Wire Wire Line
-	12500 5050 12500 6050
+	12500 5050 12500 5650
 Connection ~ 12500 5050
 Connection ~ 12500 2050
 Wire Wire Line
@@ -2752,8 +2752,6 @@ Wire Wire Line
 Wire Wire Line
 	5775 6050 5900 6050
 Wire Wire Line
-	5900 6050 5900 5650
-Wire Wire Line
 	5900 5650 6250 5650
 Connection ~ 6250 5650
 Wire Wire Line
@@ -2761,7 +2759,7 @@ Wire Wire Line
 Wire Wire Line
 	7025 6050 7150 6050
 Wire Wire Line
-	7150 6050 7150 5650
+	7150 6050 7150 5750
 Wire Wire Line
 	7150 5650 7500 5650
 Connection ~ 7500 5650
@@ -2831,7 +2829,7 @@ F 3 "" H 13550 5050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	13750 6050 13750 5050
+	13750 6050 13750 5650
 Connection ~ 13750 5050
 Connection ~ 10000 5050
 $Comp
@@ -2947,8 +2945,6 @@ Wire Wire Line
 	9500 6450 12000 6450
 Wire Wire Line
 	10750 3450 12000 3450
-Wire Wire Line
-	12500 2050 12500 3050
 $Comp
 L MX_Alps_Hybrids:MX-1U MX23
 U 1 1 5DB1E560
@@ -2980,7 +2976,7 @@ Wire Wire Line
 Wire Wire Line
 	10000 5050 10000 6050
 Wire Wire Line
-	12500 3050 12500 4050
+	12500 3050 12500 3800
 Wire Wire Line
 	12325 4050 12500 4050
 Connection ~ 12500 4050
@@ -3012,4 +3008,119 @@ Wire Wire Line
 Connection ~ 21250 3050
 Wire Wire Line
 	21250 3050 21250 3800
+$Comp
+L MX_Alps_Hybrids:MX-1U MX63-2
+U 1 1 5E31230E
+P 5350 5775
+F 0 "MX63-2" H 5436 5992 60  0000 C CNN
+F 1 "WIN (1u)" H 5436 5918 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 5325 5750 60  0001 C CNN
+F 3 "" H 5325 5750 60  0001 C CNN
+	1    5350 5775
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5525 5750 5900 5750
+Wire Wire Line
+	5900 5650 5900 5750
+Connection ~ 5900 5750
+Wire Wire Line
+	5900 5750 5900 6050
+Wire Wire Line
+	5325 5950 5325 6250
+Wire Wire Line
+	5325 6250 5575 6250
+Connection ~ 5575 6250
+$Comp
+L MX_Alps_Hybrids:MX-1U MX64-2
+U 1 1 5E3613CF
+P 6600 5775
+F 0 "MX64-2" H 6686 5992 60  0000 C CNN
+F 1 "ALT (1.5u)" H 6686 5918 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1.5U-NoLED" H 6575 5750 60  0001 C CNN
+F 3 "" H 6575 5750 60  0001 C CNN
+	1    6600 5775
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6775 5750 7150 5750
+Connection ~ 7150 5750
+Wire Wire Line
+	7150 5750 7150 5650
+Wire Wire Line
+	6575 5950 6575 6250
+Wire Wire Line
+	6575 6250 6825 6250
+Connection ~ 6825 6250
+$Comp
+L MX_Alps_Hybrids:MX-1U MX6-2
+U 1 1 5E3B1C21
+P 11850 6075
+F 0 "MX6-2" H 11936 6292 60  0000 C CNN
+F 1 "CENTER (7u)" H 11936 6218 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-7U-ReversedStabilizers-NoLED" H 11825 6050 60  0001 C CNN
+F 3 "" H 11825 6050 60  0001 C CNN
+	1    11850 6075
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11825 6250 12000 6250
+Connection ~ 12000 6250
+Wire Wire Line
+	12025 6050 12150 6050
+Wire Wire Line
+	12150 6050 12150 5650
+Wire Wire Line
+	12150 5650 12500 5650
+Connection ~ 12500 5650
+Wire Wire Line
+	12500 5650 12500 6050
+$Comp
+L MX_Alps_Hybrids:MX-1U MX38-2
+U 1 1 5E4599AF
+P 11850 3825
+F 0 "MX38-2" H 11936 4042 60  0000 C CNN
+F 1 "R WIN (1u)" H 11936 3968 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11825 3800 60  0001 C CNN
+F 3 "" H 11825 3800 60  0001 C CNN
+	1    11850 3825
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12025 3800 12500 3800
+Connection ~ 12500 3800
+Wire Wire Line
+	12500 3800 12500 4050
+Wire Wire Line
+	11825 4000 11825 4250
+Wire Wire Line
+	11825 4250 12000 4250
+Connection ~ 12000 4250
+$Comp
+L MX_Alps_Hybrids:MX-1U MX69-2
+U 1 1 5E4AF83D
+P 13100 6075
+F 0 "MX69-2" H 13186 6292 60  0000 C CNN
+F 1 "R CTRL (1.5u)" H 13186 6218 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1.5U-NoLED" H 13075 6050 60  0001 C CNN
+F 3 "" H 13075 6050 60  0001 C CNN
+	1    13100 6075
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13125 5900 13400 5900
+Wire Wire Line
+	13400 5900 13400 5650
+Wire Wire Line
+	13400 5650 13750 5650
+Connection ~ 13750 5650
+Wire Wire Line
+	13750 5650 13750 5050
+Connection ~ 13250 6250
+Wire Wire Line
+	12925 6250 13250 6250
+Wire Wire Line
+	12925 6100 12925 6250
+Wire Wire Line
+	12500 2050 12500 3050
 $EndSCHEMATC
