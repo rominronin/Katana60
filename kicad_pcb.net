@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/Volumes/Internal File Store/Google Drive/KEYBOARDS/Katana60 v2/kicad_pcb/kicad_pcb.sch")
-    (date "Sunday, 11 August 2019 at 17:10:25")
+    (date "Sunday, 11 August 2019 at 19:52:49")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -624,7 +624,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5D3EE6DF))
     (comp (ref MX65)
-      (value "L SPACE")
+      (value "L SPACE (2.25u)")
       (footprint MX_Alps_Hybrid:MX-2.25U-ReversedStabilizers-NoLED)
       (libsource (lib MX_Alps_Hybrids) (part MX-1U) (description ""))
       (sheetpath (names /) (tstamps /))
@@ -1041,8 +1041,8 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5D4D1439))
     (comp (ref MX65-1)
-      (value "L SPACE")
-      (footprint MX_Alps_Hybrid:MX-2.75U-ReversedStabilizers-NoLED)
+      (value "L SPACE (2.75u)")
+      (footprint MX_Alps_Hybrid:MX-2.75U-NoLED)
       (libsource (lib MX_Alps_Hybrids) (part MX-1U) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D51EB43))
