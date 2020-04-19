@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "/Volumes/Internal File Store/Google Drive/KEYBOARDS/Katana60 v2/kicad_pcb/kicad_pcb.sch")
-    (date "Monday, 12 August 2019 at 16:50:26")
+    (source "/Volumes/Internal File Store/Google Drive/KEYBOARDS/KiCad Projects/katana60_rev2/kicad_pcb.sch")
+    (date "Sunday, 19 April 2020 at 17:16:20")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1346,7 +1346,7 @@
     (library (logical MCU_Microchip_ATmega)
       (uri "/Library/Application Support/kicad/library/MCU_Microchip_ATmega.lib"))
     (library (logical MX_Alps_Hybrids)
-      (uri "/Volumes/Internal File Store/Google Drive/KEYBOARDS/Katana60 v2/kicad_pcb/MX_Alps_Hybrid.pretty-master/Schematic Library/MX_Alps_Hybrids.lib"))
+      (uri "/Volumes/Internal File Store/Google Drive/KEYBOARDS/KiCad Projects/katana60_rev2/MX_Alps_Hybrid.pretty-master/Schematic Library/MX_Alps_Hybrids.lib"))
     (library (logical Switch)
       (uri "/Library/Application Support/kicad/library/Switch.lib")))
   (nets
