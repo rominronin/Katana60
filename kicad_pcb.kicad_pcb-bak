@@ -420,7 +420,7 @@
     (pad 6 thru_hole circle (at 118.999 -21.717) (size 1 1) (drill 0.65) (layers *.Cu *.Mask))
   )
 
-  (module Crystal:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm locked (layer B.Cu) (tedit 5AD358ED) (tstamp 5D3E2647)
+  (module Crystal:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm (layer B.Cu) (tedit 5AD358ED) (tstamp 5D3E2647)
     (at 216.662 77.343 90)
     (descr "SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf")
     (tags "SMD SMT ceramic resonator filter")
@@ -692,7 +692,7 @@
       (xy 10.036106 3.132667) (xy 10.236958 3.132013)) (layer B.SilkS) (width 0.01))
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB52E4)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB52E4)
     (at 193.805837 72.362087 315)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -730,7 +730,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB52F7)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB52F7)
     (at 76.2 54.1505 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -768,7 +768,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB530A)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB530A)
     (at 95.25 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -806,7 +806,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB531D)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB531D)
     (at 114.3 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -844,7 +844,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5330)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5330)
     (at 133.35 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -882,7 +882,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5343)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5343)
     (at 152.4 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -920,7 +920,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5356)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5356)
     (at 171.45 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -958,7 +958,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5369)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5369)
     (at 190.5 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -996,7 +996,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB537C)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB537C)
     (at 209.55 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1034,7 +1034,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB538F)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB538F)
     (at 228.6 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1072,7 +1072,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53A2)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53A2)
     (at 247.65 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1110,7 +1110,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53B5)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53B5)
     (at 266.7 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1148,7 +1148,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53C8)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53C8)
     (at 285.75 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1186,7 +1186,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53DB)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53DB)
     (at 304.8 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1224,7 +1224,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53EE)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB53EE)
     (at 325.4375 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1262,7 +1262,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5401)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5401)
     (at 334.9625 54.11875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1300,7 +1300,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5414)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5414)
     (at 80.16875 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1338,7 +1338,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5427)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5427)
     (at 104.775 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1376,7 +1376,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB543A)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB543A)
     (at 123.825 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1414,7 +1414,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB544D)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB544D)
     (at 142.875 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1452,7 +1452,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5460)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5460)
     (at 161.925 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1490,7 +1490,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5473)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5473)
     (at 180.975 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1528,7 +1528,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5486)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5486)
     (at 184.404 71.5495 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1566,7 +1566,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54AC)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54AC)
     (at 219.075 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1604,7 +1604,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54BF)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54BF)
     (at 238.125 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1642,7 +1642,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54D2)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54D2)
     (at 257.175 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1680,7 +1680,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54E5)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54E5)
     (at 276.225 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1718,7 +1718,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54F8)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB54F8)
     (at 295.275 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1756,7 +1756,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB550B)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB550B)
     (at 314.325 72.88125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1794,7 +1794,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB551E)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB551E)
     (at 337.4875 73.81875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1832,7 +1832,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5531)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5531)
     (at 80.9625 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1870,7 +1870,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5544)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5544)
     (at 100.0125 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1908,7 +1908,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5557)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5557)
     (at 119.0625 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1946,7 +1946,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB556A)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB556A)
     (at 138.1125 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -1984,7 +1984,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB557D)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB557D)
     (at 157.30625 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2022,7 +2022,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5590)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5590)
     (at 176.35625 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2060,7 +2060,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB55A3)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB55A3)
     (at 197.64375 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2098,7 +2098,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D435E25)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D435E25)
     (at 223.8375 92.21875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2136,7 +2136,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB55DC)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB55DC)
     (at 242.8875 92.21875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2174,7 +2174,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB55EF)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB55EF)
     (at 261.9375 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2212,7 +2212,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5602)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5602)
     (at 280.9875 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2250,7 +2250,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5615)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5615)
     (at 300.0375 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2288,7 +2288,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5628)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5628)
     (at 319.23125 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2326,7 +2326,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB563B)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB563B)
     (at 338.455 91.93125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2364,7 +2364,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB564E)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB564E)
     (at 76.2 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2402,7 +2402,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5661)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5661)
     (at 95.25 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2440,7 +2440,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5674)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5674)
     (at 114.3 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2478,7 +2478,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5687)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5687)
     (at 133.35 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2516,7 +2516,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB569A)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB569A)
     (at 152.4 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2554,7 +2554,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56AD)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56AD)
     (at 171.45 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2592,7 +2592,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56C0)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56C0)
     (at 190.5 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2630,7 +2630,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56D3)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56D3)
     (at 209.55 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2668,7 +2668,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56E6)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56E6)
     (at 228.6 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2706,7 +2706,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56F9)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB56F9)
     (at 247.65 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2744,7 +2744,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB570C)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB570C)
     (at 266.7 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2782,7 +2782,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB571F)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB571F)
     (at 285.75 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2820,7 +2820,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5732)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5732)
     (at 304.8 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2858,7 +2858,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D1FA9BF)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D1FA9BF)
     (at 323.85 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2896,7 +2896,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5758)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5758)
     (at 342.9 110.98125 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2934,7 +2934,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D502537)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D502537)
     (at 80.9625 130.31875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -2972,7 +2972,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB577E)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB577E)
     (at 95.25 130.31875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3010,7 +3010,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5791)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5791)
     (at 116.68125 130.31875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3048,7 +3048,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB57A4)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB57A4)
     (at 137.31875 130.31875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3086,7 +3086,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB57B7)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB57B7)
     (at 202.40625 130.31875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3124,7 +3124,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB57F0)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB57F0)
     (at 209.55 130.31875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3162,7 +3162,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5816)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5816)
     (at 238.3005 117.221 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3200,7 +3200,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5829)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5829)
     (at 269.24 117.0155 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3238,7 +3238,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB583C)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB583C)
     (at 288.29 119.9665 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3276,7 +3276,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB584F)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB584F)
     (at 307.594 120 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3314,7 +3314,7 @@
     )
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5862)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5862)
     (at 327.025 119.4585 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3388,7 +3388,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5A44)
+  (module Resistor_SMD:R_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB5A44)
     (at 200.949587 89.562913 45)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3464,7 +3464,7 @@
     (pad 4 smd rect (at -3.1 -1.85 180) (size 1.8 1.1) (layers B.Cu B.Paste B.Mask))
   )
 
-  (module Diode_SMD:D_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB740E)
+  (module Diode_SMD:D_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5CCB740E)
     (at 333.121 119.4285 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
@@ -3502,7 +3502,7 @@
     )
   )
 
-  (module Package_QFP:TQFP-44_10x10mm_P0.8mm locked (layer B.Cu) (tedit 5A02F146) (tstamp 5D1F4535)
+  (module Package_QFP:TQFP-44_10x10mm_P0.8mm (layer B.Cu) (tedit 5A02F146) (tstamp 5D1F4535)
     (at 206.375 77.7875 270)
     (descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
@@ -3630,7 +3630,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225B97)
+  (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225B97)
     (at 205.105 65.9615 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -3666,7 +3666,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BA7)
+  (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BA7)
     (at 215.75625 73.406 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -3702,7 +3702,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BB7)
+  (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BB7)
     (at 211.93125 89.69375 315)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -3738,7 +3738,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BC7)
+  (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BC7)
     (at 207.645 65.9615 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -3774,7 +3774,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BD7)
+  (module Resistor_SMD:R_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BD7)
     (at 85.979 53.5455 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3810,7 +3810,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric locked (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BE7)
+  (module Resistor_SMD:R_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5D225BE7)
     (at 80.137 53.5455 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3846,7 +3846,7 @@
     )
   )
 
-  (module Fuse:Fuse_1206_3216Metric locked (layer B.Cu) (tedit 5B301BBE) (tstamp 5D3B7794)
+  (module Fuse:Fuse_1206_3216Metric (layer B.Cu) (tedit 5B301BBE) (tstamp 5D3B7794)
     (at 83.058 52.959 90)
     (descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3882,7 +3882,7 @@
     )
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D500DCB)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D500DCB)
     (at 73.025 125.4125 180)
     (path /5D3EE7E9)
     (fp_text reference MX61 (at 0 3.175) (layer Dwgs.User)
@@ -3916,7 +3916,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 228.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1.25U-NoLED locked (layer F.Cu) (tedit 5A9F5210) (tstamp 5D500DE1)
+  (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 5D500DE1)
     (at 94.45625 125.4125)
     (path /5D3EE7A9)
     (fp_text reference MX62 (at 0 3.175) (layer Dwgs.User)
@@ -3950,7 +3950,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1.25U-NoLED locked (layer F.Cu) (tedit 5A9F5210) (tstamp 5D500DF7)
+  (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 5D500DF7)
     (at 118.26875 125.4125)
     (path /5D3EE768)
     (fp_text reference MX63 (at 0 3.175) (layer Dwgs.User)
@@ -3984,7 +3984,7 @@
       (net 86 "Net-(D63-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1.25U-NoLED locked (layer F.Cu) (tedit 5A9F5210) (tstamp 5D500E0D)
+  (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 5D500E0D)
     (at 142.08125 125.4125)
     (path /5D3EE727)
     (fp_text reference MX64 (at 0 3.175) (layer Dwgs.User)
@@ -4018,7 +4018,7 @@
       (net 87 "Net-(D64-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-2.25U-ReversedStabilizers-NoLED locked (layer F.Cu) (tedit 5A9F5259) (tstamp 5D500E23)
+  (module MX_Alps_Hybrid:MX-2.25U-ReversedStabilizers-NoLED (layer F.Cu) (tedit 5A9F5259) (tstamp 5D500E23)
     (at 175.41875 125.4125)
     (path /5D3EE6E6)
     (fp_text reference MX65 (at 0 3.175) (layer Dwgs.User)
@@ -4530,7 +4530,7 @@
     (pad "" np_thru_hole circle (at 11.938 8.255 180) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C52)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C52)
     (at 73.025 49.2125)
     (path /5D3EE810)
     (fp_text reference MX1 (at 0 3.175) (layer Dwgs.User)
@@ -4564,7 +4564,7 @@
       (net 4 "Net-(D1-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C68)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C68)
     (at 92.075 49.2125)
     (path /5D3EE7CF)
     (fp_text reference MX2 (at 0 3.175) (layer Dwgs.User)
@@ -4598,7 +4598,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C7E)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C7E)
     (at 111.125 49.2125)
     (path /5D3EE78F)
     (fp_text reference MX3 (at 0 3.175) (layer Dwgs.User)
@@ -4632,7 +4632,7 @@
       (net 7 "Net-(D3-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C94)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517C94)
     (at 130.175 49.2125)
     (path /5D3EE74E)
     (fp_text reference MX4 (at 0 3.175) (layer Dwgs.User)
@@ -4666,7 +4666,7 @@
       (net 8 "Net-(D4-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CAA)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CAA)
     (at 149.225 49.2125)
     (path /5D3EE70D)
     (fp_text reference MX5 (at 0 3.175) (layer Dwgs.User)
@@ -4700,7 +4700,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CC0)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CC0)
     (at 168.275 49.2125)
     (path /5D3EE6CC)
     (fp_text reference MX6 (at 0 3.175) (layer Dwgs.User)
@@ -4734,7 +4734,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CD6)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CD6)
     (at 187.325 49.2125)
     (path /5D3EE68B)
     (fp_text reference MX7 (at 0 3.175) (layer Dwgs.User)
@@ -4768,7 +4768,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CEC)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517CEC)
     (at 206.375 49.2125)
     (path /5D3EE64A)
     (fp_text reference MX8 (at 0 3.175) (layer Dwgs.User)
@@ -4802,7 +4802,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D02)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D02)
     (at 225.425 49.2125)
     (path /5D3EE609)
     (fp_text reference MX9 (at 0 3.175) (layer Dwgs.User)
@@ -4836,7 +4836,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D18)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D18)
     (at 244.475 49.2125)
     (path /5D3EE5C8)
     (fp_text reference MX10 (at 0 3.175) (layer Dwgs.User)
@@ -4870,7 +4870,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D2E)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D2E)
     (at 263.525 49.2125)
     (path /5D3EE587)
     (fp_text reference MX11 (at 0 3.175) (layer Dwgs.User)
@@ -4904,7 +4904,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D44)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D44)
     (at 282.575 49.2125)
     (path /5D3EE546)
     (fp_text reference MX12 (at 0 3.175) (layer Dwgs.User)
@@ -4938,7 +4938,7 @@
       (net 33 "Net-(D12-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D5A)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D5A)
     (at 301.625 49.2125)
     (path /5D3EE505)
     (fp_text reference MX13 (at 0 3.175) (layer Dwgs.User)
@@ -4972,7 +4972,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D70)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D70)
     (at 320.675 49.2125)
     (path /5D3EE4C4)
     (fp_text reference MX14 (at 0 3.175) (layer Dwgs.User)
@@ -5006,7 +5006,7 @@
       (net 37 "Net-(D14-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D86)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D86)
     (at 339.725 49.2125)
     (path /5D3EE483)
     (fp_text reference MX15 (at 0 3.175) (layer Dwgs.User)
@@ -5040,7 +5040,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D9C)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517D9C)
     (at 82.55 68.2625)
     (path /5D3EE81D)
     (fp_text reference MX16-1 (at 0 3.175) (layer Dwgs.User)
@@ -5074,7 +5074,7 @@
       (net 41 "Net-(D16-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DB2)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DB2)
     (at 101.6 68.2625)
     (path /5D3EE7DC)
     (fp_text reference MX17 (at 0 3.175) (layer Dwgs.User)
@@ -5108,7 +5108,7 @@
       (net 42 "Net-(D17-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DC8)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DC8)
     (at 120.65 68.2625)
     (path /5D3EE79C)
     (fp_text reference MX18 (at 0 3.175) (layer Dwgs.User)
@@ -5142,7 +5142,7 @@
       (net 43 "Net-(D18-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DDE)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DDE)
     (at 139.7 68.2625)
     (path /5D3EE75B)
     (fp_text reference MX19 (at 0 3.175) (layer Dwgs.User)
@@ -5176,7 +5176,7 @@
       (net 44 "Net-(D19-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DF4)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517DF4)
     (at 158.75 68.2625)
     (path /5D3EE71A)
     (fp_text reference MX20 (at 0 3.175) (layer Dwgs.User)
@@ -5210,7 +5210,7 @@
       (net 45 "Net-(D20-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E0A)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E0A)
     (at 177.8 68.2625)
     (path /5D3EE6D9)
     (fp_text reference MX21 (at 0 3.175) (layer Dwgs.User)
@@ -5244,7 +5244,7 @@
       (net 46 "Net-(D21-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E20)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E20)
     (at 196.85 68.2625)
     (path /5D3EE698)
     (fp_text reference MX22 (at 0 3.175) (layer Dwgs.User)
@@ -5278,7 +5278,7 @@
       (net 47 "Net-(D22-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E36)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E36)
     (at 215.9 68.2625)
     (path /5D3EE616)
     (fp_text reference MX24 (at 0 3.175) (layer Dwgs.User)
@@ -5312,7 +5312,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E4C)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E4C)
     (at 234.95 68.2625)
     (path /5D3EE5D5)
     (fp_text reference MX25 (at 0 3.175) (layer Dwgs.User)
@@ -5346,7 +5346,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E62)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E62)
     (at 254 68.2625)
     (path /5D3EE594)
     (fp_text reference MX26 (at 0 3.175) (layer Dwgs.User)
@@ -5380,7 +5380,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E78)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E78)
     (at 273.05 68.2625)
     (path /5D3EE553)
     (fp_text reference MX27 (at 0 3.175) (layer Dwgs.User)
@@ -5414,7 +5414,7 @@
       (net 51 "Net-(D27-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E8E)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517E8E)
     (at 292.1 68.2625)
     (path /5D3EE512)
     (fp_text reference MX28 (at 0 3.175) (layer Dwgs.User)
@@ -5448,7 +5448,7 @@
       (net 52 "Net-(D28-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EA4)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EA4)
     (at 311.15 68.2625)
     (path /5D3EE4D1)
     (fp_text reference MX29 (at 0 3.175) (layer Dwgs.User)
@@ -5482,7 +5482,7 @@
       (net 53 "Net-(D29-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EBA)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EBA)
     (at 330.2 68.2625)
     (path /5D3EE490)
     (fp_text reference MX30-1 (at 0 3.175) (layer Dwgs.User)
@@ -5516,7 +5516,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517ED0)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517ED0)
     (at 77.7875 87.3125)
     (path /5D3EE803)
     (fp_text reference MX31 (at 0 3.175) (layer Dwgs.User)
@@ -5550,7 +5550,7 @@
       (net 55 "Net-(D31-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EE6)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EE6)
     (at 96.8375 87.3125)
     (path /5D3EE7C2)
     (fp_text reference MX32 (at 0 3.175) (layer Dwgs.User)
@@ -5584,7 +5584,7 @@
       (net 56 "Net-(D32-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EFC)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517EFC)
     (at 115.8875 87.3125)
     (path /5D3EE782)
     (fp_text reference MX33 (at 0 3.175) (layer Dwgs.User)
@@ -5618,7 +5618,7 @@
       (net 57 "Net-(D33-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F12)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F12)
     (at 134.9375 87.3125)
     (path /5D3EE741)
     (fp_text reference MX34 (at 0 3.175) (layer Dwgs.User)
@@ -5652,7 +5652,7 @@
       (net 58 "Net-(D34-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F28)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F28)
     (at 153.9875 87.3125)
     (path /5D3EE700)
     (fp_text reference MX35 (at 0 3.175) (layer Dwgs.User)
@@ -5686,7 +5686,7 @@
       (net 59 "Net-(D35-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F3E)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F3E)
     (at 173.0375 87.3125)
     (path /5D3EE6BF)
     (fp_text reference MX36 (at 0 3.175) (layer Dwgs.User)
@@ -5720,7 +5720,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F54)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F54)
     (at 192.0875 87.3125)
     (path /5D3EE67E)
     (fp_text reference MX37 (at 0 3.175) (layer Dwgs.User)
@@ -5754,7 +5754,7 @@
       (net 61 "Net-(D37-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F6A)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F6A)
     (at 220.6625 87.3125)
     (path /5D3EE5FC)
     (fp_text reference MX39 (at 0 3.175) (layer Dwgs.User)
@@ -5788,7 +5788,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F80)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F80)
     (at 239.7125 87.3125)
     (path /5D3EE5BB)
     (fp_text reference MX40 (at 0 3.175) (layer Dwgs.User)
@@ -5822,7 +5822,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F96)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517F96)
     (at 258.7625 87.3125)
     (path /5D3EE57A)
     (fp_text reference MX41 (at 0 3.175) (layer Dwgs.User)
@@ -5856,7 +5856,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FAC)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FAC)
     (at 277.8125 87.3125)
     (path /5D3EE539)
     (fp_text reference MX42 (at 0 3.175) (layer Dwgs.User)
@@ -5890,7 +5890,7 @@
       (net 65 "Net-(D42-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FC2)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FC2)
     (at 296.8625 87.3125)
     (path /5D3EE4F8)
     (fp_text reference MX43 (at 0 3.175) (layer Dwgs.User)
@@ -5924,7 +5924,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FD8)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FD8)
     (at 315.9125 87.3125)
     (path /5D3EE4B7)
     (fp_text reference MX44 (at 0 3.175) (layer Dwgs.User)
@@ -5958,7 +5958,7 @@
       (net 67 "Net-(D44-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FEE)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D517FEE)
     (at 334.9625 87.3125)
     (path /5D3EE476)
     (fp_text reference MX45 (at 0 3.175) (layer Dwgs.User)
@@ -5992,7 +5992,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518004)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518004)
     (at 73.025 106.3625)
     (path /5D3EE7F6)
     (fp_text reference MX46 (at 0 3.175) (layer Dwgs.User)
@@ -6026,7 +6026,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51801A)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51801A)
     (at 92.075 106.3625)
     (path /5D3EE7B5)
     (fp_text reference MX47 (at 0 3.175) (layer Dwgs.User)
@@ -6060,7 +6060,7 @@
       (net 70 "Net-(D47-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518030)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518030)
     (at 111.125 106.3625)
     (path /5D3EE775)
     (fp_text reference MX48 (at 0 3.175) (layer Dwgs.User)
@@ -6094,7 +6094,7 @@
       (net 71 "Net-(D48-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518046)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518046)
     (at 130.175 106.3625)
     (path /5D3EE734)
     (fp_text reference MX49 (at 0 3.175) (layer Dwgs.User)
@@ -6128,7 +6128,7 @@
       (net 72 "Net-(D49-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51805C)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51805C)
     (at 149.225 106.3625)
     (path /5D3EE6F3)
     (fp_text reference MX50 (at 0 3.175) (layer Dwgs.User)
@@ -6162,7 +6162,7 @@
       (net 73 "Net-(D50-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518072)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518072)
     (at 168.275 106.3625)
     (path /5D3EE6B2)
     (fp_text reference MX51 (at 0 3.175) (layer Dwgs.User)
@@ -6196,7 +6196,7 @@
       (net 74 "Net-(D51-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518088)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518088)
     (at 187.325 106.3625)
     (path /5D3EE671)
     (fp_text reference MX52 (at 0 3.175) (layer Dwgs.User)
@@ -6230,7 +6230,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51809E)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51809E)
     (at 206.375 106.3625)
     (path /5D3EE630)
     (fp_text reference MX53 (at 0 3.175) (layer Dwgs.User)
@@ -6264,7 +6264,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180B4)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180B4)
     (at 225.425 106.3625)
     (path /5D3EE5EF)
     (fp_text reference MX54 (at 0 3.175) (layer Dwgs.User)
@@ -6298,7 +6298,7 @@
       (net 77 "Net-(D54-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180CA)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180CA)
     (at 244.475 106.3625)
     (path /5D3EE5AE)
     (fp_text reference MX55 (at 0 3.175) (layer Dwgs.User)
@@ -6332,7 +6332,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180E0)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180E0)
     (at 263.525 106.3625)
     (path /5D3EE56D)
     (fp_text reference MX56 (at 0 3.175) (layer Dwgs.User)
@@ -6366,7 +6366,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180F6)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5180F6)
     (at 282.575 106.3625)
     (path /5D3EE52C)
     (fp_text reference MX57 (at 0 3.175) (layer Dwgs.User)
@@ -6400,7 +6400,7 @@
       (net 80 "Net-(D57-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51810C)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51810C)
     (at 301.625 106.3625)
     (path /5D3EE4EB)
     (fp_text reference MX58 (at 0 3.175) (layer Dwgs.User)
@@ -6434,7 +6434,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518122)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518122)
     (at 320.675 106.3625)
     (path /5D3EE4AA)
     (fp_text reference MX59 (at 0 3.175) (layer Dwgs.User)
@@ -6468,7 +6468,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518138)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518138)
     (at 339.725 106.3625)
     (path /5D3EE469)
     (fp_text reference MX60 (at 0 3.175) (layer Dwgs.User)
@@ -6502,7 +6502,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51814E)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51814E)
     (at 206.375 125.4125)
     (path /5D3EE623)
     (fp_text reference MX68 (at 0 3.175) (layer Dwgs.User)
@@ -6536,7 +6536,7 @@
       (net 89 "Net-(D68-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED locked (layer F.Cu) (tedit 5A9F5237) (tstamp 5D518164)
+  (module MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED (layer F.Cu) (tedit 5A9F5237) (tstamp 5D518164)
     (at 234.95 125.4125)
     (path /5D3EE5A1)
     (fp_text reference MX70 (at 0 3.175) (layer Dwgs.User)
@@ -6574,7 +6574,7 @@
     (pad "" np_thru_hole circle (at 11.938 -8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51817E)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D51817E)
     (at 263.525 125.4125)
     (path /5D3EE560)
     (fp_text reference MX71 (at 0 3.175) (layer Dwgs.User)
@@ -6608,7 +6608,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518194)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D518194)
     (at 282.575 125.4125)
     (path /5D3EE51F)
     (fp_text reference MX72 (at 0 3.175) (layer Dwgs.User)
@@ -6642,7 +6642,7 @@
       (net 92 "Net-(D72-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5181AA)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5181AA)
     (at 301.625 125.4125)
     (path /5D3EE4DE)
     (fp_text reference MX73 (at 0 3.175) (layer Dwgs.User)
@@ -6676,7 +6676,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5181C0)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5181C0)
     (at 320.675 125.4125)
     (path /5D3EE49D)
     (fp_text reference MX74 (at 0 3.175) (layer Dwgs.User)
@@ -6710,7 +6710,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED locked (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5181D6)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5D5181D6)
     (at 339.725 125.4125)
     (path /5D3EE45C)
     (fp_text reference MX75 (at 0 3.175) (layer Dwgs.User)
@@ -6744,7 +6744,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1.5U-NoLED locked (layer F.Cu) (tedit 5A9F5217) (tstamp 5D5181EC)
+  (module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5217) (tstamp 5D5181EC)
     (at 77.7875 68.2625)
     (path /5D209394)
     (fp_text reference MX16 (at 0 3.175) (layer Dwgs.User)
@@ -6778,7 +6778,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1.5U-NoLED locked (layer F.Cu) (tedit 5A9F5217) (tstamp 5D518202)
+  (module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5217) (tstamp 5D518202)
     (at 334.9625 68.2625)
     (path /5D268C5E)
     (fp_text reference MX30 (at 0 3.175) (layer Dwgs.User)
@@ -6812,7 +6812,7 @@
       (net 54 "Net-(D30-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MX-1.25U-NoLED locked (layer F.Cu) (tedit 5A9F5210) (tstamp 5D518218)
+  (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 5D518218)
     (at 75.40625 87.3125)
     (path /5D238BFB)
     (fp_text reference MX31-1 (at 0 3.175) (layer Dwgs.User)
@@ -6914,7 +6914,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MX-1.25U-NoLED locked (layer F.Cu) (tedit 5A9F5210) (tstamp 5D51825A)
+  (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 5D51825A)
     (at 337.34375 87.3125)
     (path /5D26AC7F)
     (fp_text reference MX45-1 (at 0 3.175) (layer Dwgs.User)
@@ -7198,7 +7198,7 @@
     (pad "" np_thru_hole circle (at 11.938 -8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module random-keyboard-parts:Molex-0548190519 locked (layer B.Cu) (tedit 5D74DF78) (tstamp 5E9CC2E5)
+  (module random-keyboard-parts:Molex-0548190519 (layer B.Cu) (tedit 5D74DF78) (tstamp 5E9CC2E5)
     (at 82.169 39.624 270)
     (path /5CCDCA3B)
     (attr smd)
